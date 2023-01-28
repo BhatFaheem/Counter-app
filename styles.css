@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(169, 137, 94);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+div{
+    padding: 50px 50px;
+}
+h2{
+    font-size:3rem;
+    line-height: 1;
+}
